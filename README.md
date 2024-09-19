@@ -1,0 +1,4 @@
+- 👋 yo! Old acc got deleted idk why
+- ill bring my repos back and add all of em here again
+- might take a few days! 🥲
+- sorry for the sad news? (maybe?) 🙃🥲
