@@ -9,8 +9,7 @@
 
 ## 🧰 My Toolkit
 
-```bash
-Languages:  C++ | Python | Java | JavaScript | SQL  
+Languages:  C++ | Python | Typescript | SQL  
 Frameworks: React | Node.js | Django | Unreal Engine  
 Skills:     DSA | OOP | Machine Learning | Git | REST APIs  
 ````
@@ -34,7 +33,9 @@ If it's got a problem, I probably tried fixing it at 2 AM with coffee and curios
 * 🔍 **Transformer Mapper** – React + TomTom API: electrical nerdvana
 * 🎧 **Music Recommender** – ML + Python: Spotify’s weirder cousin
 * 🛠️ **Asset Tracker** – For NEEPCO: where spreadsheets go to retire
+*  🚦 **Traffic Safety Game** – Got a contract dunno how to make this web app XD (Built with Typescript])
 
+  > A playful way to teach people why red means stop — and no, it's not because your mom said so.
 *...more lurking in the repo jungle.*
 
 ---
